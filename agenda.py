@@ -22,7 +22,7 @@ def editarcontato():
 
 def pesquisarcontato():
     chose = int(input('Deseja procurar pelo: \n1 - Nome\n2 - Número \n3 - Email:\n '))
-    alvo2 = int(input('Digite o termo de busca: '))
+    alvo2 = (input('Digite o termo de busca: '))
     for i in range(len(agenda)):
         if chose == 1:
             comparar = agenda[i]['nome']
