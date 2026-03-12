@@ -1,8 +1,8 @@
 # Agenda de Contatos em Python
 
-Projeto simples feito para praticar lógica de programação.
+Projeto simples de gerenciamento de contatos feito para praticar lógica de programação em Python.
 
-## Funções do sistema
+## Funcionalidades
 
 - Adicionar contato
 - Editar contato
@@ -13,17 +13,20 @@ Projeto simples feito para praticar lógica de programação.
 ## Tecnologias usadas
 
 - Python
-- Lista
-- Dicionário
+- Estruturas de dados (lista e dicionário)
 - Funções
 - Loop while
 
-## Como rodar o projeto
+## Como executar
 
-Abra o terminal na pasta e rode:
+Clone o repositório:
+
+git clone https://github.com/lfernandes-dev/agenda-contatos-python
+
+Execute o programa:
 
 python agenda.py
 
 ---
 
-Projeto feito por Lucas Fernandes
+Desenvolvido por Lucas Fernandes
